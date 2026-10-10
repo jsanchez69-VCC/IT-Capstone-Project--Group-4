@@ -5,7 +5,7 @@ We are tracking our capstone milestones using Microsoft Project. You can find th
 * **Interactive Timeline:*** **Gantt Chart PDF:** [View Gantt Chart](<IT%20Capstone%20Project-%20Issa%27s%20Events-%20Gantt%20Chart%20Snapshot%202.pdf>)
 
 
-* **MS Project Source File:** [Download .mpp File](project-management/capstone_timeline.mpp)
+* * **MS Project Source File:** [Download Microsoft Project File](capstone_timeline.mpp)
 
 ## Key Project Milestones
 
